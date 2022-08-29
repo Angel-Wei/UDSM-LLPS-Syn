@@ -30,5 +30,7 @@ of 100 scaffolds, 2,998 clients, and 529 regulators.</li>
 
 ### Jupyter Notebook Documentation
 Please see two Jupyter Notebooks under <code>task_1/application/</code> for detailed steps:
-1. <code><b>Predict LLPS propensity of DrLLPS data.ipynb</b></code>
-2. <code><b>UDSM-LLPS prediction results on DrLLPS data.ipynb</b></code>
+<ul>
+<li><code><b>1. Predict LLPS propensity of DrLLPS data.ipynb</b></code></li>
+<li><code><b>2. UDSM-LLPS prediction results on DrLLPS data.ipynb</b></code></li>
+</ul>
