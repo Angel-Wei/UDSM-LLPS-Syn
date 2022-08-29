@@ -8,4 +8,7 @@ Our results have shown that, without prior domain knowledge and only based on pr
 <img src="figure1.png" width="700">
 </p>
 
+##Dependencies
+Please refer to the orignal repository of [UDSMProt](https://github.com/nstrodt/UDSMProt) for detailed information.
+
 ## Application Documentation
