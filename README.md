@@ -5,10 +5,11 @@ In this study, we applied the deep sequence model – [UDSMProt](https://github.
 
 Our results have shown that, without prior domain knowledge and only based on protein sequences, the fine-tuned language models achieved high classification accuracies and outperformed baseline models using compositional *k*-mer features in both tasks. For details of this work, please refer to our paper [**"Deep sequence representation learning for predicting human proteins with liquid-liquid phase separation propensity and synaptic functions"**](https://dl.acm.org/doi/10.1145/3535508.3545550) (Wei and Wang, 2022)
 <p align = "center">
-  <img src="figure1.png" width="700"></img>
-</p></br>
+  <img src="figure1.png" width="650"></img>
+</p>
 
-##Dependencies
+## Dependencies
 Please refer to the orignal repository of [UDSMProt](https://github.com/nstrodt/UDSMProt) for detailed information.
 
 ## Application Documentation
+Here, we provide 2 JupyterNotebooks as examples
