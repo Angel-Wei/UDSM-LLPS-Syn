@@ -21,7 +21,7 @@ Here, we provide one example to show the application of the fine-tuned UDSM-LLPS
 
 ### Description of files
 <ul>
-  <li>DrLLPS data: task_1/application/<b>DrLLPS_data.csv</b> stores reviewed human LLPS-associated proteins categorized by the three types, consisting
+  <li>DrLLPS data: task_1/application/<code><b>DrLLPS_data.csv</b></code> stores reviewed human LLPS-associated proteins categorized by the three types, consisting
 of 100 scaffolds, 2,998 clients, and 529 regulators.</li>
   <li>Fine-tuned UDSM-LLPS models: <b>UDSM-LLPS_Random.pkl</b> and <b>UDSM-LLPS_UniRef.pkl</b> under task_1/</li>
   <li>Utils file: <b>model_utils.py</b> downloaded from the original UDSMProt repository</li>
