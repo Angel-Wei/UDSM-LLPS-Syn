@@ -7,4 +7,5 @@ Our results have shown that, without prior domain knowledge and only based on pr
 <p align = "center">
 <img src="figure1.png" width="700">
 </p>
+
 ## Application Documentation
